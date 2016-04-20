@@ -1,3 +1,7 @@
+"""Try and calculate the population density 
+(total national population divided by the total land area and remember to convert at least one number to float).
+Which continent was most densely populated in 2010?"""
+
 from matplotlib import pyplot as plt
 import collections
 
